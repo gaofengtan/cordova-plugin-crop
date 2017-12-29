@@ -6,4 +6,5 @@ Cordova 裁剪图片插件
 # 安装
 ```
 cordova plugin add https://github.com/gaofengtan/cordova-plugin-crop
+npm install --save @ionic-native/crop
 ```
